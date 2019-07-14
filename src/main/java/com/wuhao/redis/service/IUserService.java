@@ -3,8 +3,6 @@ package com.wuhao.redis.service;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.wuhao.redis.entity.User;
 
-import java.util.List;
-
 /**
  * <p>
  *  服务类
